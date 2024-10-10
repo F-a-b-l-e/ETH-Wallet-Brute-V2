@@ -1,6 +1,6 @@
 {
   "name": "eth-fucker",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A tool for checking Ethereum wallet balances.",
   "main": "eth.js",
   "bin": "eth.js",
@@ -25,6 +25,6 @@
       "config.json"
     ]
   },
-  "author": "Abbdedz",
+  "author": "F_a_b_le",
   "license": "MIT"
 }
