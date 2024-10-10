@@ -23,7 +23,7 @@ npm install
 
 press "s" to start and "e" to exit
 
-# edit the config.json, put your Alchemy API KEY
+edit the config.json, put your Alchemy API KEY
 
 then run using command 
 
