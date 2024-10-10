@@ -1,0 +1,30 @@
+{
+  "name": "eth-fucker",
+  "version": "1.0.0",
+  "description": "A tool for checking Ethereum wallet balances.",
+  "main": "eth.js",
+  "bin": "eth.js",
+  "scripts": {
+    "start": "eth.js",
+    "build": "pkg ."
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "colors": "^1.4.0",
+    "ethers": "^5.7.2",
+    "git": "^0.1.5",
+    "pkg": "^5.8.1"
+  },
+  "pkg": {
+    "targets": [
+      "node14-linux-x64",
+      "node14-macos-x64",
+      "node14-win-x64"
+    ],
+    "assets": [
+      "config.json"
+    ]
+  },
+  "author": "Abbdedz",
+  "license": "MIT"
+}
